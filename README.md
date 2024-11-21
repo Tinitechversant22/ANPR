@@ -19,6 +19,7 @@ The backend OCR functionality is implemented in Google Colab, integrated with th
 - Google Colab
 
 *Setup and Execution*
+
 Step 1: Clone the Repository
 
     git clone https://github.com/Tinitechversant22/ANPR.git
