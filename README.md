@@ -1,4 +1,5 @@
 *Number Plate Detection & Recognition System*
+
 This project implements a Number Plate Recognition System that allows users to upload a vehicle image via a web interface. The system extracts the number plate from the image using EasyOCR and displays both the uploaded image and the extracted number plate on the frontend.
 
 The backend OCR functionality is implemented in Google Colab, integrated with the Flask application using Pyngrok.
@@ -7,13 +8,15 @@ The backend OCR functionality is implemented in Google Colab, integrated with th
    - Upload vehicle images through the Flask web application.
    - Extract vehicle number plates using EasyOCR.
    - Display the uploaded image and the extracted number plate on the frontend.
+   
 
 *Requirements*
-    - Python 3.x
-    - Flask
-    - EasyOCR
-    - Pyngrok
-    - Google Colab
+
+- Python 3.x
+- Flask
+- EasyOCR
+- Pyngrok
+- Google Colab
 
 *Setup and Execution*
 Step 1: Clone the Repository
